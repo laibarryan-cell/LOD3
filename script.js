@@ -30,7 +30,7 @@ const chatData = [
     {
         id: 1,
         sender: "社區群組",
-        avatar: "./grandma_avatar.png", 
+        avatar: "./grandma_avatar.PNG", 
         type: "group",
         message: "📊 [投票活動] 發霉的地方切掉就可以吃嗎？",
         groupMessages: [
@@ -51,7 +51,7 @@ const chatData = [
     {
         id: 2,
         sender: "LINE熱心鄰居張阿姨",
-        avatar: "./sushi_spring_rolls.png",
+        avatar: "./sushi_spring_rolls.PNG",
         type: "chat",
         message: "「重要分享！沒吃完的潤餅跟配料放在室溫下沒關係，隔天直接吃也沒事，不用麻煩冰冰箱啦，古早人都是這樣吃的！」",
         isRumor: true,
